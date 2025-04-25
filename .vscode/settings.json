@@ -11,5 +11,8 @@
     "javascriptreact",
     "typescript",
     "vue"
-  ]
+  ],
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  }
 }
